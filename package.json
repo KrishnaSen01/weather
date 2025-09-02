@@ -1,5 +1,25 @@
 {
   "dependencies": {
-    "dotenv": "^17.2.1"
-  }
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "Weather app using Node.js, Express, and OpenWeather API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishnaSen01/weather.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrishnaSen01/weather/issues"
+  },
+  "homepage": "https://github.com/KrishnaSen01/weather#readme"
 }
